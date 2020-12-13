@@ -1,0 +1,33 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rectanglescanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:4:5-77
+11-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:4:22-75
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:5:5-64
+12-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:5:22-62
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:6:5-81
+13-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.FLASHLIGHT" />
+14-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:7:5-69
+14-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:7:22-66
+15
+16    <uses-feature android:name="android.hardware.camera" />
+16-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:8:5-60
+16-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:8:19-57
+17    <uses-feature android:name="android.hardware.camera.autofocus" />
+17-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:9:5-70
+17-->C:\camrect\node_modules\react-native-rectangle-scanner\android\src\main\AndroidManifest.xml:9:19-67
+18
+19</manifest>

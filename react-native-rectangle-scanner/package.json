@@ -1,0 +1,101 @@
+{
+  "_from": "react-native-rectangle-scanner",
+  "_id": "react-native-rectangle-scanner@1.0.10",
+  "_inBundle": false,
+  "_integrity": "sha512-E9YdHMaRBYXen9wQHOrNa//nZyf2AUqpV+f7v1D3SNJJjuFmqEtxB1gx9qlJCE7ut/Osh7WRCYJL+wVoXQ7S/g==",
+  "_location": "/react-native-rectangle-scanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-rectangle-scanner",
+    "name": "react-native-rectangle-scanner",
+    "escapedName": "react-native-rectangle-scanner",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-rectangle-scanner/-/react-native-rectangle-scanner-1.0.10.tgz",
+  "_shasum": "eddf201013030c12e9c74c893c3a7d7e229780fc",
+  "_spec": "react-native-rectangle-scanner",
+  "_where": "C:\\camrect",
+  "author": {
+    "name": "Jake Humphrey",
+    "url": "https://github.com/humphreyja"
+  },
+  "bugs": {
+    "url": "https://github.com/HarvestProfit/react-native-rectangle-scanner/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Scan documents, automatic border detection, automatic crop, image filters",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.4.0",
+    "@babel/plugin-transform-runtime": "^7.4.3",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-inline-import": "^3.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prop-types": "^15.7.2",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "~0.59.8",
+    "react-native-svg": "^10.0.0"
+  },
+  "files": [
+    "/android",
+    "!/android/build",
+    "/ios",
+    "/src",
+    "/*.podspec",
+    "react-native.config.js"
+  ],
+  "homepage": "https://github.com/HarvestProfit/react-native-rectangle-scanner#readme",
+  "jest": {
+    "preset": "react-native",
+    "modulePathIgnorePatterns": [
+      "<rootDir>/example/node_modules",
+      "<rootDir>/lib/"
+    ]
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-scanner",
+    "react-native-document-scanner",
+    "scanner",
+    "document",
+    "ios",
+    "android",
+    "camera"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-rectangle-scanner",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarvestProfit/react-native-rectangle-scanner.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "src/index.d.ts",
+  "version": "1.0.10"
+}
